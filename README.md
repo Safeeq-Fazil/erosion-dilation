@@ -29,7 +29,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 #to read the color image
-input_image_path='shiba.jpg'
+input_image_path='dog.jpg'
 color_image=cv2.imread(input_image_path)
 
 #convert the color image to grayscale

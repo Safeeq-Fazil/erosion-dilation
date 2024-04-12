@@ -23,6 +23,9 @@ Print the output images
  
 ## Program:
 
+## Name : Safeeq Fazil A
+## Register no: 212222240086
+
 ``` Python
 import cv2
 import numpy as np
